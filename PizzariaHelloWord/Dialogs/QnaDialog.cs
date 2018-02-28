@@ -49,7 +49,7 @@ namespace PizzariaHelloWorld.Dialogs
 
             card.Buttons = new List<CardAction>
             {
-                new CardAction(ActionTypes.OpenUrl,"Compre Agora",value:url)
+                new CardAction(ActionTypes.OpenUrl,"Compre Agora!!!",value:url)
             };
 
             card.Images = new List<CardImage>
